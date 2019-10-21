@@ -4,4 +4,4 @@
 
 ### [virthttp](virthttp.md)
 
-![virthttp logo](res/images/virthttp-logo-256.png)
+[![virthttp logo](res/images/virthttp-logo-256.png)](virthttp.md)
