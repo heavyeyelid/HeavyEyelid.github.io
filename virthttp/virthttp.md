@@ -254,7 +254,7 @@ For a list of errors, see [Errors](https://github.com/heavyeyelid/virthttp/wiki/
 
 # Domains
 
-A Domain is a virtual machine on a host. It can be characterized by a **name** (max 253 characters _string_) and an **UUID** (_string_ of 32 characters separated by `-` : XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX), a 16 byte unique identifier as defined in [RFC 4122](http://www.ietf.org/rfc/rfc4122.txt).
+A Domain is a virtual machine on a host. It can be characterized by a **name** (max 253 characters _string_) and a **UUID** (16 byte unique identifier as defined in [RFC 4122](http://www.ietf.org/rfc/rfc4122.txt)).
 
 ## List Domains
 
